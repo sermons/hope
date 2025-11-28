@@ -3,6 +3,12 @@
 ## Isaiah 9:2-7
 
 ---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> id="outline" -->
+## Hope in the Coming Messiah
+1. The **Darkness** in the World [(8:19-22)](# "ref")
+1. The **Light** Shining [(9:2-7)](# "ref")
+
+---
 
 The people who walked in darkness </br>
 have seen a great light;
