@@ -556,3 +556,10 @@ neither shall they learn **war** anymore.
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="empty" -->
+
+>>>
+# TODO
++ tighten up xrefs/asides
++ more detailed outline
++ too stream-of-consciousness
++ more frequently touch back to outline
