@@ -95,7 +95,8 @@ shake before the wind.
 >>>
 + **powerless** before overwhelming opp
 + but God promised imminent **justice**:
-  + before **baby** learns to talk,
++ in the time it takes a
+  + **baby** to learn to talk,
 
 ---
 <!-- .slide: <%= bg("wm-Ashurbanipal.jpg") %> -->
@@ -545,7 +546,7 @@ neither shall they learn **war** anymore.
   + (does it even matter?)
 + Bitter **resentment**?
   + (like God even cares)
-+ Proud **legalism**?
++ Prideful **legalism**?
   + (I'm the only one doing sth!)
 + Or **confident** obedience?
 + I **know** Christ is returning
