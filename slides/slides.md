@@ -99,8 +99,9 @@ shake before the wind.
 
 ---
 <!-- .slide: <%= bg("wm-Ashurbanipal.jpg") %> -->
-the wealth of **Damascus** and the spoil of **Samaria**
-will be carried away before the king of **Assyria**.
+the wealth of **Damascus** <br/>
+and the spoil of **Samaria** will be <br/>
+carried away before the king of **Assyria**.
 
 [Isaiah 8:4 (ESV)](# "ref")
 [Ashurbanipal, detail of lion-hunt scene](https://commons.wikimedia.org/wiki/File:Ashurbanipal,_detail_of_a_lion-hunt_scene_from_Nineveh,_7th_century_BC,_the_British_Museum.jpg "caption")
@@ -116,11 +117,11 @@ will be carried away before the king of **Assyria**.
 
 ---
 <!-- .slide: <%= bg("Hans-wave-384385.jpg") %> -->
-the Lord is bringing up against them 
-the waters of the **River**, mighty and many, 
+the Lord is bringing up against them <br/>
+the waters of the **River**, mighty and many, <br/>
 the king of **Assyria** and all his glory. 
 
-And it will rise over all its **channels** 
+And it will rise over all its **channels** <br/>
 and go over all its **banks**, 
 
 [Isaiah 8:7 (ESV)](# "ref")
@@ -268,7 +269,7 @@ and let him be your dread
 
 ---
 <!-- .slide: data-background="white" -->
-# How do I **respond** to severe **stress**? 
+# How do I **respond** <br/> to severe **stress**? 
 
 <!-- .element: class="r-fit-text" -->
 
@@ -387,7 +388,8 @@ will be **burned** as fuel for the fire.
 <!-- .slide: <%= bg("Rembrandt-Simeons_Song_of_Praise.jpg") %> -->
 For to us a **child** is born, <br/>
 to us a **son** is given; <br/>
-and the **government** shall be upon his **shoulder**,
+and the **government** shall be <br/>
+upon his **shoulder**,
 
 [Isaiah 9:6a (ESV)](# "ref")
 [Rembrandt, "Simeons Song of Praise", 1631](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/ "caption")
@@ -494,11 +496,12 @@ The **zeal** of the Lord of hosts will do this.
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
-“**Come**, let us go up to the mountain of the Lord, <br/>
-    to the house of the God of Jacob,
+“**Come**, let us go up <br/>
+to the mountain of the Lord, <br/>
+to the house of the God of Jacob,
 
 that he may **teach** us his ways <br/>
-    and that we may **walk** in his paths.”
+and that we may **walk** in his paths.”
 
 [Isaiah 2:3a (p.1/3) (ESV)](# "ref")
 
@@ -514,11 +517,12 @@ He shall **judge** between the nations, <br/>
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
-and they shall beat their **swords** into plowshares, <br/>
-    and their **spears** into pruning hooks;
+and they shall beat their <br/>
+**swords** into plowshares, <br/>
+and their **spears** into pruning hooks;
 
 nation shall not lift up sword against nation, <br/>
-    neither shall they learn **war** anymore.
+neither shall they learn **war** anymore.
 
 [Isaiah 2:4b (p.3/3) (ESV)](# "ref")
 
