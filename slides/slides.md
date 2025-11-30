@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="title" -->
 # Hope in the Coming Messiah
 ## Isaiah 9:2-7
 
@@ -7,7 +7,7 @@
   + see **brokenness**, corruption,
   + injustice, violence
 + war on **global** scale:
-  + Gaza, Ukraine, Venezuela, Sudan, Xinjiang
+  + Gaza, Ukraine, Sudan, Myanmar
 + and on **personal** scale:
   + esp **holidays**
   + reminder of **broken** rl
@@ -36,7 +36,7 @@
 
 >>>
 + ch9 **familiar**, but context in
-+ ch7-8: what **darkness** that
++ ch7-8: what is the **darkness** that
   + Chr **rescues** us from?
 + Has the light **already** come,
   + or still **yet** to come?
@@ -72,7 +72,7 @@ but could not yet mount an attack against it.
 [BibleTalk, CC-BY-NC-SA 3.0](https://bibletalk.tv/graphics/aram-israel-judah-assyria "caption")
 
 >>>
-+ prophet Isaiah + king Ahaz in **Judah**
++ Isaiah + king Ahaz in **Judah**
   + capital city is Jerusalem
 + N. kingdom of **Israel** / Ephraim:
   + Samaria, Pekah son of Remaliah
@@ -108,11 +108,11 @@ carried away before the king of **Assyria**.
 
 >>>
 + Judah won't have to worry about
-  + **Aram + Israel**: conquered by
+  + **Aram + Israel**: bc conquered by
 + **Assyria**: large kingdom further N.E.
   + land of the **Euphrates** river
 + known for fierceness and **cruelty**
-  + past century: phase of **expansion**
+  + phase of **expansion** over a century
 + God wields as **razor** shaves beard
 
 ---
@@ -153,7 +153,7 @@ the breadth of your land, O **Immanuel**
   + **vindicated** them
 + But instr of God's **wrath**
   + wouldn't **stop** there:
-+ though 130yrs from fall of Samaria to Jeru
++ though 130yrs fall of Samaria to Jeru
 + Jerusalem, the land of **Immanuel**
   + God **dwelling** with us
 + Surely God wouldn't judge **us**?
@@ -173,7 +173,7 @@ should not a people inquire of their **God**?
 
 >>>
 + **mediums**: asking the dead for advice
-  + **Saul** seek Samuel via Endor (1Sa28)
+  + **Saul**: Samuel via Endor (1Sa28)
 + reversion to **youth**: life simple
   + had **mentor**, no responsibilities
 + but even **if** dead could speak
@@ -216,16 +216,17 @@ against their **king** and their **God**,
 >>>
 + when disaster befalls **others**:
   + feel bad, but what can I do?
-+ when it becomes **personal**:
++ when affects **me**: hunger
   + when **revolutions** happen: angry
-+ First **up**: curse king/God 
++ First look **up**: curse king/God 
   + blame **authority** figures
 + e.g., little kid **runs** into a table:
   + "bad table", let's hit the table
 + teaches to **blame** others:
-  + teacher, boss, spouse, immig, PM
+  + teacher, boss, spouse, PM, immig
 + ultimately, we blame **God**
   + for our **frustrations** + anger
++ but fighting against God is **futile**:
 
 ---
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
@@ -236,8 +237,6 @@ the gloom of anguish.
 [Isaiah 8:22 (ESV)](# "ref")
 
 >>>
-+ but fighting against God is **futile**
-+ **down**: darkness, distress
 + **this** is the world we live in!
   + **fear** of uncertain future
   + **anger** at authority + God
@@ -275,7 +274,7 @@ and let him be your dread
 
 >>>
 + e.g., as child: **hide** under covers
-+ as parent: stew in silence until **explode**
++ as parent: stew silent til **explode**
 + "I **tried** asking nicely, tried praying"
   + "God, Your way didn't work, so
   + now I do it my way"
@@ -289,7 +288,8 @@ and let him be your dread
 1. The **Light** Shining [(9:2-7)](# "ref")
 
 >>>
-+ starting in **Galilee**
++ God's **light** shines in **darkest** places
++ Jesus ministered first in **Galilee**
 + portion **closest** to Aram + Assyria
 
 ---
@@ -360,7 +360,7 @@ saying, ‘My **own hand** has saved me.’
 + from 32k to just **300**
   + not bc **elite** soldiers
 + God **turned** Midianites against e.o.
-  + all Israel came out to **pursue**
+  + then Israel came out to **pursue**
 + God brought about **end** to
   + what felt like interminable war:
 
@@ -382,7 +382,7 @@ will be **burned** as fuel for the fire.
   + in turn conquered by **Assyria**
 + sin/pride: given to **Babylon**
   + Persia, Greece, Rome, ...
-+ What will **stop** the cycle of war?
++ What will **stop** cycle of conflict?
 
 ---
 <!-- .slide: <%= bg("Rembrandt-Simeons_Song_of_Praise.jpg") %> -->
@@ -418,9 +418,9 @@ before Abraham was, **I AM**.”
 
 >>>
 + tried to **stone** for blasphemy:
-  + "I AM": God spoke of self to Moses
+  + "I AM": God to Moses
   + Jesus **is** God
-+ didn't **start** at Christmas
++ didn't **start** at Christmas, and
   + didn't **end** at the ascension
 + **Work** of salv finished on cross, but
 + Promised **restoration** comes when
